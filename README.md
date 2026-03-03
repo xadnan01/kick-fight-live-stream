@@ -34,8 +34,7 @@ This project uses:
 - Centralized validation files
 - Token management
 
----
-
+```
 ## 📁 Project Structure (Important Files)
 
 app/
@@ -54,8 +53,7 @@ database/
 routes/
 ├─ api.php
 
-
----
+```
 
 ## 🔑 Authentication Flow (Sanctum)
 
